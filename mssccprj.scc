@@ -1,0 +1,5 @@
+SCC = This is a Source Code Control file
+
+[ssnetEleadsBE.vbp]
+SCC_Aux_Path =\\10.10.3.250\Dev\DPS_VSS,
+SCC_Project_Name ="$/SSNet/SSNET/Integrations/Eleads/ssnetEleadsBE", WJLAAAAA
